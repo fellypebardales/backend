@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "Smartphone Samsung S21+",
+    "description": "Com memória de 124GB, 8GB RAM",
+    "price": 4500,
+    "image": "smartphone_samsung_s21plus.jpg",
+    "stock": 15
+  },
+  {
+    "id": "1",
+    "name": "Notebook Dell XPS 13",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD",
+    "price": 9200,
+    "image": "notebook_dell_xps13.jpg",
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "name": "Tablet Apple iPad Pro",
+    "description": "128GB, Wi-Fi, 11 polegadas",
+    "price": 6800,
+    "image": "tablet_ipad_pro.jpg",
+    "stock": 12
+  }
+]
